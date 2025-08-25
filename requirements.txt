@@ -1,0 +1,38 @@
+
+# Data Processing and Analysis
+pandas
+# numpy
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn  # for SMOTE
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Model Management and Serialization
+joblib
+
+# Pipeline Orchestration
+apache-airflow
+pydantic-settings  # Required for Airflow settings
+pydantic  # Base dependency
+
+# Jupyter and Interactive Computing
+jupyter
+ipykernel
+nbformat
+
+# Utilities
+python-dotenv
+tqdm  # for progress bars
+
+# Testing and Development
+pytest
+black  # for code formatting
+flake8  # for linting
